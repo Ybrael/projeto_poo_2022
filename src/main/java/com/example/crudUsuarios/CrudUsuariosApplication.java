@@ -10,4 +10,5 @@ public class CrudUsuariosApplication {
 		SpringApplication.run(CrudUsuariosApplication.class, args);
 	}
 
+	
 }
